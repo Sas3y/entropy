@@ -1,0 +1,29 @@
+53	0	0.00106
+509	1	0.01018
+2146	2	0.04292
+5791	3	0.11582
+10093	4	0.20186
+12213	5	0.24426
+10313	6	0.20626
+5992	7	0.11984
+2294	8	0.04588
+532	9	0.01064
+64	10	0.00128
+
+117	0and10	0.00234
+1041	1and9	0.02082
+4440	2and8	0.08880
+11783	3and7	0.23566
+20406	4and6	0.40812
+24426	5x2 *	0.48852
+12213	5	0.24426
+
+INFO
+* 5 times 2 as to appease the eyes for a visual series. Does not add up though.
+sample size= 50000
+started from 0 [heads/tails] and weird enough it ended as the least plausible result when observing constantly.
+as input could be of 10000 this file serves as a 5 file dump.
+
+
+site for random numbers:
+https://www.calculatorsoup.com/calculators/statistics/random-number-generator.php
